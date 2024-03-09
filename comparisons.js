@@ -33,18 +33,29 @@ console.log("Is numberStudents greater than of equal to 21?", numberStudents >= 
 // PART 2: Articulating what you are doing
 // #-------------------
 
-// For the following prompts, you will be given a line of code and your task is to type out a comment,in English, explaining what that line of code is doing, including what the comparison will evaluate to.
+// For the following prompts, you will be given a line of code and your task is to type out a comment,in English,
+// explaining what that line of code is doing, including what the comparison will evaluate to.
 
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
 
+/** We have defined and declared two variables here; one being friends equal to six and one bing siblings equal to two.
+ *  We have coded in a console log that will print out a true or false statement about the comparison inside the parenthesis.
+ * This specific comparison is asking if the variable friends is greater than the variable siblings as we have defined them;
+ * the console log will print out true.
+ */
+
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
 
+/** We have defined and declared two variables here; one being attendees equal to nine and one bing meals equal to eight.
+ *  We have coded in a console log that will print out a true or false statement about the comparison inside the parenthesis.
+ * This specific comparison is asking if the variable attendees is NOT equal to the variable meals as we have defined them;
+ * the console log will print out true. */
 
 // #-------------------
 // PART 3: Logical Operators
