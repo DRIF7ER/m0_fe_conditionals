@@ -1,4 +1,4 @@
-/** ## Medium
+/** Medium
 
 Using the following variables:
 
